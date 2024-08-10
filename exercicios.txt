@@ -1,0 +1,12 @@
+1- Crie uma função que retorne “POSITIVO” se o número que foi digitado é maior ou igual a 0 ou “NEGATIVO” se o número for menor que 0
+
+2- Faça uma função que receba, por parâmetro, dois números positivos e retorne a soma dos N números inteiros existentes entre eles
+
+3- Faça uma função que receba um parâmetro chamado segundos e transforme esses segundos em minutos e em horas. Imprima o resultado.
+
+4- Faça uma função que receba 4 parâmetros, sendo 3 notas e uma letra. Se a letra for A, a função deve calcular a média aritmética entre as 3 notas. Se a letra informada for P a média ponderada com pesos 5, 3 e 2. Imprima o resultado.
+
+5- Faça uma função que receba 5 números inteiros e imprima o maior e o menor deles, ignorando os outros.
+
+Observação:
+Em um desses exercícios vai ter que saber e usar a ordem de precedência dos operadores matemáticos mas acredito que não seja difícil pra vocês.
