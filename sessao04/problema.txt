@@ -1,0 +1,8 @@
+Problema proposto: 
+    você recebeu uma lista de nomes. 
+    ordene da maneira mais útil possível.
+
+    o que seria a meneira mais útil?
+    pra mim pode ser ordem alfabética
+    pra você pode ser pela quantidade de letras
+    pra você pode ser pelos dois
